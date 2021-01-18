@@ -1,2 +1,2 @@
 # Calculator
-Basic Calculator that adds two numbers
+Basic Addition Calculator.
