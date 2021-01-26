@@ -9,5 +9,5 @@ num2 = float(input("Enter second number: "))
 #Variable that is the answer and adds both numbers
 result = num1 + num2
 
-#Finally result 
+#Finally printing result 
 print(result)
